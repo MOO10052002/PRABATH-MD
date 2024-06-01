@@ -7,17 +7,17 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+255710870752",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "GuruBot~EcV2rCiW",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "MOHAMEDI HATIBU MOHAMEDI ",
       "required": true
     },
     
